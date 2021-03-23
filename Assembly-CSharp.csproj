@@ -65,6 +65,7 @@
      <Compile Include="Assets\Script\ShopDialogManager.cs" />
      <Compile Include="Assets\Script\ShopProduct.cs" />
      <Compile Include="Assets\Script\ShowProduct.cs" />
+     <Compile Include="Assets\Script\UseToTestGit.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/guanzheyuan/Test/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
